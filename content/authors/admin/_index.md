@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Natalie Xiaoqi Liu
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Xiaoqi
+last_name: Liu
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
